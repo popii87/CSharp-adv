@@ -1,0 +1,26 @@
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.exe
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.deps.json
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.runtimeconfig.json
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.runtimeconfig.dev.json
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.dll
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.pdb
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.csprojAssemblyReference.cache
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.AssemblyInfo.cs
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.dll
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.pdb
+C:\Users\R\Desktop\HW AbstractClasses & Interfaces\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.genruntimeconfig.cache
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.exe
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.deps.json
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.runtimeconfig.json
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.runtimeconfig.dev.json
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.dll
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\bin\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.pdb
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.csprojAssemblyReference.cache
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.AssemblyInfo.cs
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.dll
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.pdb
+C:\Users\R\Desktop\CSharp-adv\AbstractClasses and Intrfaces\AbstractClasses and Intrfaces\obj\Debug\netcoreapp3.1\AbstractClasses and Intrfaces.genruntimeconfig.cache
