@@ -1,0 +1,13 @@
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\bin\Debug\netcoreapp3.1\StaticClasses and Polymorphism.exe
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\bin\Debug\netcoreapp3.1\StaticClasses and Polymorphism.deps.json
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\bin\Debug\netcoreapp3.1\StaticClasses and Polymorphism.runtimeconfig.json
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\bin\Debug\netcoreapp3.1\StaticClasses and Polymorphism.runtimeconfig.dev.json
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\bin\Debug\netcoreapp3.1\StaticClasses and Polymorphism.dll
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\bin\Debug\netcoreapp3.1\StaticClasses and Polymorphism.pdb
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.csprojAssemblyReference.cache
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.AssemblyInfo.cs
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.dll
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.pdb
+C:\Users\R\Desktop\StaticClasses and Polymorphism\StaticClasses and Polymorphism\StaticClasses and Polymorphism\obj\Debug\netcoreapp3.1\StaticClasses and Polymorphism.genruntimeconfig.cache
