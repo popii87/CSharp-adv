@@ -1,0 +1,9 @@
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\bin\Debug\netcoreapp3.1\LinqHomework.Data.deps.json
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\bin\Debug\netcoreapp3.1\LinqHomework.Data.dll
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\bin\Debug\netcoreapp3.1\LinqHomework.Data.pdb
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\obj\Debug\netcoreapp3.1\LinqHomework.Data.csprojAssemblyReference.cache
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\obj\Debug\netcoreapp3.1\LinqHomework.Data.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\obj\Debug\netcoreapp3.1\LinqHomework.Data.AssemblyInfo.cs
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\obj\Debug\netcoreapp3.1\LinqHomework.Data.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\obj\Debug\netcoreapp3.1\LinqHomework.Data.dll
+C:\Users\R\Desktop\skwd9-net-06-csharpadv\G5\class06 - AnonymousMethodsAndAdvancedLINQ\homework\LinqHomework\LinqHomework.Data\obj\Debug\netcoreapp3.1\LinqHomework.Data.pdb

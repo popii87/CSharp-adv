@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LinqHomework.App/1.0.0": {
+        "dependencies": {
+          "LinqHomework.Data": "1.0.0"
+        },
+        "runtime": {
+          "LinqHomework.App.dll": {}
+        }
+      },
+      "LinqHomework.Data/1.0.0": {
+        "runtime": {
+          "LinqHomework.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqHomework.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinqHomework.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
